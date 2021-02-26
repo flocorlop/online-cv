@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -94,15 +94,33 @@ education:
           - Bullet point          
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Ámbito académico
+    #intro: >
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Segundo curso 
+        time: 2018-2019
+        link: 
+        tagline: #
+        details: | 
+            [Arquitectura e Integración de Sistemas Software](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050016)
+            Este proyecto consistía en crear una aplicación web e integrar 3 APIs, las elegidas fueron Unsplash, OpenWeather y Spotify. 
+
+            El funcionamiento consistía en según que clima hiciera en el día le saldría al usuario unas imágenes de outfits (conjuntos de ropa) más una lista de spotify acorde al tiempo. Por ejemplo: 
+
+            Día soleado + ropa de verano o primavera + lista de spotify de canciones alegres.
+
+            El proyecto está alojado en https://pinweatherfy.appspot.com/ aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
+
+            ![Portada](/resources/images/pin1.JPG)
+ 
+            ![Resultados](/resources/images/pin2.JPG)
+ 
+            ![Resultados](/resources/images/pin3.JPG)
+
+            Además tiene API, aquí puede visitar la [documentación](https://pinweatherfy.appspot.com/docs/index.html).
+
+            El proyecto se realizó en grupo de 4 personas; está realizado en JAVA y para las vistas HTML, CSS y JSP.
 
       - title: DevStudio
         link: "#"
