@@ -80,11 +80,11 @@ experiences:
 
         El proyecto está alojado en [https://pinweatherfy.appspot.com/](https://pinweatherfy.appspot.com/) aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
 
-        ![Portada](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet1.JPG)
+        [Portada](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet1.JPG)
  
-        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pin2.JPG)
+        [Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pin2.JPG)
  
-        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pin3.JPG)
+        [Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pin3.JPG)
 
         Además tiene API, aquí puede visitar la [documentación](https://pinweatherfy.appspot.com/docs/index.html).
 
@@ -127,13 +127,13 @@ experiences:
 
         Algunas imágenes:
 
-        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet1.JPG)
+        [Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet1.JPG)
  
-        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet2.JPG)
+        [Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet2.JPG)
  
-        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet3.JPG)
+        [Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet3.JPG)
 
-        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet4.JPG)
+        [Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet4.JPG)
 
         Implemetación en JAVA, base de datos de SQL y vistas con JSP; Se trabajó en grupo de 6 personas y parte de la asignatura fue online por el COVID-19.
 
@@ -153,7 +153,7 @@ experiences:
 
         Este trabajo lo realicé en pareja; trabajamos con Python y online.
 
-# TO DO 4
+
     - role: Cuarto curso
       time: 2020 - 2021
       company: 
@@ -162,7 +162,7 @@ experiences:
 
         Proyecto basado en una plataforma de voto electrónico educativa, incluimos algunas funcionalidades pequeñas en el módulo de Votaciones ya que la asignatura no se centró en programar. Se usó Python y Django.
         
-        Toda la documentación [aquí](https://github.com/pabfrasan/decide/blob/documentacionVotacion/Documento%20del%20proyecto%20-%20P%C3%ADcaro%20votaci%C3%B3n.pdf)
+        Toda la documentación [aquí](https://github.com/pabfrasan/decide/blob/documentacionVotacion/Documento%20del%20proyecto%20-%20P%C3%ADcaro%20votaci%C3%B3n.pdf) .
 
         Equipo de 6 personas coordinadas con otros 2 grupos: 1 de 6 personas y 1 de 4 personas; En total 16 personas.
         
@@ -172,7 +172,7 @@ experiences:
         Asignatura en la que se trabaja más en la planificación y gestión como su nombre indica, el proyecto fue de tipo E-commerce creando una empresa ficticia.
         Se implementó en Wordpress con extensiones y plugins como WooCommerce.
 
-        Enlace a la página [aquí](http://open-components.epizy.com/)
+        Enlace a la página [aquí](http://open-components.epizy.com/) .
 
         Fuimos equipo de 6 integrantes.
 
@@ -183,8 +183,8 @@ experiences:
         Con esos datos se puede realizar búsquedas de canciones, álbumes, listas de radio.
 
         Algunas imágenes:
-        ![Inicio](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii.JPG)
-        ![Resultado](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii2.JPG)
+        [Inicio](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii.JPG)
+        [Resultado](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii2.JPG)
 
         Las tecnologías usadas fueron Python y Django, BeautifulSoup y Whoosh.
 
