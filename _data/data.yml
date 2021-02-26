@@ -80,11 +80,11 @@ experiences:
 
         El proyecto está alojado en [https://pinweatherfy.appspot.com/](https://pinweatherfy.appspot.com/) aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
 
-        ![Portada](/assets/images/pin1.JPG)
+        ![Portada](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet1.JPG)
  
-        ![Resultados](/assets/images/pin2.JPG)
+        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pin2.JPG)
  
-        ![Resultados](/assets/images/pin3.JPG)
+        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pin3.JPG)
 
         Además tiene API, aquí puede visitar la [documentación](https://pinweatherfy.appspot.com/docs/index.html).
 
@@ -127,13 +127,13 @@ experiences:
 
         Algunas imágenes:
 
-        ![Resultados](/assets/images/pet1.JPG)
+        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet1.JPG)
  
-        ![Resultados](/assets/images/pet2.JPG)
+        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet2.JPG)
  
-        ![Resultados](/assets/images/pet3.JPG)
+        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet3.JPG)
 
-        ![Resultados](/assets/images/pet4.JPG)
+        ![Resultados](https://github.com/flocorlop/online-cv/blob/master/assets/images/pet4.JPG)
 
         Implemetación en JAVA, base de datos de SQL y vistas con JSP; Se trabajó en grupo de 6 personas y parte de la asignatura fue online por el COVID-19.
 
@@ -142,14 +142,14 @@ experiences:
         
         Este proyecto fue solo documentar la aplicación web sin llegar a implementarlo con un cliente real "Kebab Andaluz Carmona" en el que participamos 4 personas.
 
-        El diseño fue [este](/assets/otros/ProyectoKEBAB.pdf) con su respectiva documentación de requisitos.
+        El diseño fue [este](https://github.com/flocorlop/online-cv/blob/master/assets/otros/ProyectoKEBAB.pdf) con su respectiva documentación de requisitos.
 
         
         Inteligencia artificial
         
         El proyecto asignado fue Clustering con incertidumbre que consiste en agrupar puntos cercanos en un mismo cluster.
 
-        La presentación está [aquí](/assets/otros/IA20.pdf)
+        La presentación está [aquí](https://github.com/flocorlop/online-cv/blob/master/assets/otros/IA20.pdf)
 
         Este trabajo lo realicé en pareja; trabajamos con Python y online.
 
@@ -183,8 +183,8 @@ experiences:
         Con esos datos se puede realizar búsquedas de canciones, álbumes, listas de radio.
 
         Algunas imágenes:
-        ![Inicio](/assets/images/aii.JPG)
-        ![Resultado](/assets/images/aii2.JPG)
+        ![Inicio](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii.JPG)
+        ![Resultado](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii2.JPG)
 
         Las tecnologías usadas fueron Python y Django, BeautifulSoup y Whoosh.
 
