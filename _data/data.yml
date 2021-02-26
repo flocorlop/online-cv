@@ -93,19 +93,20 @@ education:
           - Bullet point
           - Bullet point          
 experiences:
-    - title: Ámbito académico
+    title: Ámbito académico
     - role: Segundo curso 
       time: 2018 - 2019
       company: 
       details: |
         [Arquitectura e Integración de Sistemas Software](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050016)
+        
         Este proyecto consistía en crear una aplicación web e integrar 3 APIs, las elegidas fueron Unsplash, OpenWeather y Spotify. 
 
         El funcionamiento consistía en según que clima hiciera en el día le saldría al usuario unas imágenes de outfits (conjuntos de ropa) más una lista de spotify acorde al tiempo. Por ejemplo: 
 
         Día soleado + ropa de verano o primavera + lista de spotify de canciones alegres.
 
-        El proyecto está alojado en https://pinweatherfy.appspot.com/ aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
+        El proyecto está alojado en [https://pinweatherfy.appspot.com/](https://pinweatherfy.appspot.com/) aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
 
         ![Portada](/resources/images/pin1.JPG)
  
@@ -116,17 +117,70 @@ experiences:
         Además tiene API, aquí puede visitar la [documentación](https://pinweatherfy.appspot.com/docs/index.html).
 
         El proyecto se realizó en grupo de 4 personas; está realizado en JAVA y para las vistas HTML, CSS y JSP.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+   
+   
+        [Introducción a la Ingeniería del Software y los Sistemas de Información I y II](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050047)
+        
+        Este proyecto consistía en crear una aplicación web para un cliente real y ayudar a su empresa.
+
+        Las funcionalidades que tenía fueron las siguientes adjuntado en este [pdf](/resources/LOGIREC2-mockup.pdf) .
+
+        El proyecto se realizó en grupo de 4 personas; está realizado en PHP, JavaScript, con base de datos de SQL y para las vistas HTML y CSS.
+
+   - role: Tercer curso
+      time: 2019 - 2020
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        [Diseño y Pruebas I](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050048)
+        
+        El proyecto de esta asignatura consistía en añadir funcionalidades a un proyecto base con framework personalizado proporcionado por el profesorado. Este trataba de una web donde se publicaban ofertas de trabajo, anuncios, etc con varios roles/usuarios.
+
+        El código final está disponible en este [enlace](https://github.com/angcabdom/Acme-Jobs2) .
+
+        En este proyecteo fuimos 4 personas; se realizó en JAVA, base de datos SQL y para las vistas JSP.
+
+        
+        [Diseño y Pruebas II](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050049)
+        
+        Esta asignatura requería una aplicación web para una empresa ficticia, escogimos "Talleres Paco" donde se podían añadir vehículos, averías, citas y usuarios. Usamos Spring PetClinic como proyecto base.
+
+        Hicimos la aplicación y pruebas unitarias, EndToEnd, de integración, de carga y de interfaz. El código final está disponible en este [enlace](https://github.com/abemorcardc/DP2-1920-G1-15) .
+
+        En este proyecteo fuimos 6 personas; se realizó en JAVA, base de datos de SpringData y vistas con JSP.
+
+        
+        [Proceso Software y Gestión II](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050051)
+        
+        Esta asignatura como su nombre indica se centró mas en gestión y configuración por lo que la implementación de código fue pequeño y básico sin dificultades. Los cambios fueron estéticos y alguna funcionalidad para la clínica veterinaria.
+
+        Algunas imágenes:
+
+        ![Resultados](/resources/images/pet1.JPG)
+ 
+        ![Resultados](/resources/images/pet2.JPG)
+ 
+        ![Resultados](/resources/images/pet3.JPG)
+
+        ![Resultados](/resources/images/pet4.JPG)
+
+        Implemetación en JAVA, base de datos de SQL y vistas con JSP; Se trabajó en grupo de 6 personas y parte de la asignatura fue online por el COVID-19.
+
+        
+        [Ingeniería de Requisitos](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050020)
+        
+        Este proyecto fue solo documentar la aplicación web sin llegar a implementarlo con un cliente real "Kebab Andaluz Carmona" en el que participamos 4 personas.
+
+        El diseño fue [este](/resources/ProyectoKEBAB.pdf) con su respectiva documentación de requisitos.
+
+        
+        Inteligencia artificial
+        El proyecto asignado fue Clustering con incertidumbre que consiste en agrupar puntos cercanos en un mismo cluster.
+
+        La presentación está [aquí](/resources/IA20.pdf)
+
+        Este trabajo lo realicé en pareja; trabajamos con Python y online.
+
+# TO DO 4
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
