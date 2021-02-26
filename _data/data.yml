@@ -114,7 +114,7 @@ experiences:
         
         Esta asignatura requería una aplicación web para una empresa ficticia, escogimos "Talleres Paco" donde se podían añadir vehículos, averías, citas y usuarios. Usamos Spring PetClinic como proyecto base.
 
-        Hicimos la aplicación y pruebas unitarias, EndToEnd, de integración, de carga y de interfaz. El código final está disponible en este [enlace](https://github.com/abemorcardc/DP2-1920-G1-15) .
+        Hicimos la aplicación y pruebas unitarias, EndToEnd, de integración, de carga y de interfaz. El código final está disponible en este [enlace](https://github.com/abemorcardc/DP2-1920-G1-15).
 
         En este proyecteo fuimos 6 personas; se realizó en JAVA, base de datos de SpringData y vistas con JSP.
 
@@ -174,11 +174,11 @@ experiences:
 
         [Acceso Inteligente a la Información](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050027)
 
-        Proyecto individual pequeño que consiste en una página web que muestra listas de música a partir de los datos de la página principal de [El portal de música](https://elportaldemusica.es/)        
+        Proyecto individual pequeño que consiste en una página web que muestra listas de música a partir de los datos de la página principal de [El portal de música](https://elportaldemusica.es/),        
         Con esos datos se puede realizar búsquedas de canciones, álbumes, listas de radio.
 
         Algunas imágenes:
-        [Inicio](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii1.JPG) ,
+        [Inicio](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii1.JPG),
         [Resultado](https://github.com/flocorlop/online-cv/blob/master/assets/images/aii2.JPG).
 
         Las tecnologías usadas fueron Python y Django, BeautifulSoup y Whoosh.
