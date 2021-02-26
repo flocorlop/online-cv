@@ -92,8 +92,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point          
+
 experiences:
-    
     - role: Segundo curso 
       time: 2018 - 2019
       company: 
@@ -127,7 +127,7 @@ experiences:
 
         El proyecto se realizó en grupo de 4 personas; está realizado en PHP, JavaScript, con base de datos de SQL y para las vistas HTML y CSS.
 
-   - role: Tercer curso
+    - role: Tercer curso
       time: 2019 - 2020
       company: 
       details: |
