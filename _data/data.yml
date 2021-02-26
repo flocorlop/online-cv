@@ -92,36 +92,56 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point          
+experiences:
+    - title: Ámbito académico
+    - role: Segundo curso 
+      time: 2018 - 2019
+      company: 
+      details: |
+        [Arquitectura e Integración de Sistemas Software](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050016)
+        Este proyecto consistía en crear una aplicación web e integrar 3 APIs, las elegidas fueron Unsplash, OpenWeather y Spotify. 
 
+        El funcionamiento consistía en según que clima hiciera en el día le saldría al usuario unas imágenes de outfits (conjuntos de ropa) más una lista de spotify acorde al tiempo. Por ejemplo: 
+
+        Día soleado + ropa de verano o primavera + lista de spotify de canciones alegres.
+
+        El proyecto está alojado en https://pinweatherfy.appspot.com/ aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
+
+        ![Portada](/resources/images/pin1.JPG)
+ 
+        ![Resultados](/resources/images/pin2.JPG)
+ 
+        ![Resultados](/resources/images/pin3.JPG)
+
+        Además tiene API, aquí puede visitar la [documentación](https://pinweatherfy.appspot.com/docs/index.html).
+
+        El proyecto se realizó en grupo de 4 personas; está realizado en JAVA y para las vistas HTML, CSS y JSP.
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
-    title: Ámbito académico
+    title: Personal
     #intro: >
-      
-    assignments:
-      - title: Segundo curso 
-        time: 2018-2019
-        link: 
-        tagline: #
-        details: | 
-            [Arquitectura e Integración de Sistemas Software](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050016)
-            Este proyecto consistía en crear una aplicación web e integrar 3 APIs, las elegidas fueron Unsplash, OpenWeather y Spotify. 
-
-            El funcionamiento consistía en según que clima hiciera en el día le saldría al usuario unas imágenes de outfits (conjuntos de ropa) más una lista de spotify acorde al tiempo. Por ejemplo: 
-
-            Día soleado + ropa de verano o primavera + lista de spotify de canciones alegres.
-
-            El proyecto está alojado en https://pinweatherfy.appspot.com/ aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
-
-            ![Portada](/resources/images/pin1.JPG)
- 
-            ![Resultados](/resources/images/pin2.JPG)
- 
-            ![Resultados](/resources/images/pin3.JPG)
-
-            Además tiene API, aquí puede visitar la [documentación](https://pinweatherfy.appspot.com/docs/index.html).
-
-            El proyecto se realizó en grupo de 4 personas; está realizado en JAVA y para las vistas HTML, CSS y JSP.
-
+    assignments: 
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
