@@ -51,47 +51,19 @@ education:
     - degree: Educación Primaria
       university: CEIP ANDALUCÍA GUILLENA
       time: 2005 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
     - degree: Educación Secundaria Obligatoria
       university: IES Vicente Aleixandre
       time: 2011 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
     - degree: Educación Secundaria postobligatoria (Bachillerato)
       university: IES Vicente Aleixandre
       time: 2015 - 2017
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
     - degree: Grado en Ingeniería Informática-Ingeniería del Software
       university: Universidad de Sevilla
       time: 2017 - actualidad
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point          
+      details:          
 
 experiences:
     - role: Segundo curso 
@@ -108,11 +80,11 @@ experiences:
 
         El proyecto está alojado en [https://pinweatherfy.appspot.com/](https://pinweatherfy.appspot.com/) aunque sus funciones no están disponibles por no seguir manteniéndolo. Algunas imágenes:
 
-        ![Portada](/resources/images/pin1.JPG)
+        ![Portada](/assets/images/pin1.JPG)
  
-        ![Resultados](/resources/images/pin2.JPG)
+        ![Resultados](/assets/images/pin2.JPG)
  
-        ![Resultados](/resources/images/pin3.JPG)
+        ![Resultados](/assets/images/pin3.JPG)
 
         Además tiene API, aquí puede visitar la [documentación](https://pinweatherfy.appspot.com/docs/index.html).
 
@@ -123,7 +95,7 @@ experiences:
         
         Este proyecto consistía en crear una aplicación web para un cliente real y ayudar a su empresa.
 
-        Las funcionalidades que tenía fueron las siguientes adjuntado en este [pdf](/resources/LOGIREC2-mockup.pdf) .
+        Las funcionalidades que tenía fueron las siguientes adjuntado en este [pdf](/assets/otros/LOGIREC2-mockup.pdf) .
 
         El proyecto se realizó en grupo de 4 personas; está realizado en PHP, JavaScript, con base de datos de SQL y para las vistas HTML y CSS.
 
@@ -155,13 +127,13 @@ experiences:
 
         Algunas imágenes:
 
-        ![Resultados](/resources/images/pet1.JPG)
+        ![Resultados](/assets/images/pet1.JPG)
  
-        ![Resultados](/resources/images/pet2.JPG)
+        ![Resultados](/assets/images/pet2.JPG)
  
-        ![Resultados](/resources/images/pet3.JPG)
+        ![Resultados](/assets/images/pet3.JPG)
 
-        ![Resultados](/resources/images/pet4.JPG)
+        ![Resultados](/assets/images/pet4.JPG)
 
         Implemetación en JAVA, base de datos de SQL y vistas con JSP; Se trabajó en grupo de 6 personas y parte de la asignatura fue online por el COVID-19.
 
@@ -170,13 +142,14 @@ experiences:
         
         Este proyecto fue solo documentar la aplicación web sin llegar a implementarlo con un cliente real "Kebab Andaluz Carmona" en el que participamos 4 personas.
 
-        El diseño fue [este](/resources/ProyectoKEBAB.pdf) con su respectiva documentación de requisitos.
+        El diseño fue [este](/assets/otros/ProyectoKEBAB.pdf) con su respectiva documentación de requisitos.
 
         
         Inteligencia artificial
+        
         El proyecto asignado fue Clustering con incertidumbre que consiste en agrupar puntos cercanos en un mismo cluster.
 
-        La presentación está [aquí](/resources/IA20.pdf)
+        La presentación está [aquí](/assets/otros/IA20.pdf)
 
         Este trabajo lo realicé en pareja; trabajamos con Python y online.
 
@@ -186,12 +159,35 @@ experiences:
       company: 
       details: |
         [Evolución y Gestión de la Configuración](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050032)
+
+        Proyecto basado en una plataforma de voto electrónico educativa, incluimos algunas funcionalidades pequeñas en el módulo de Votaciones ya que la asignatura no se centró en programar. Se usó Python y Django.
+        
+        Toda la documentación [aquí](https://github.com/pabfrasan/decide/blob/documentacionVotacion/Documento%20del%20proyecto%20-%20P%C3%ADcaro%20votaci%C3%B3n.pdf)
+
+        Equipo de 6 personas coordinadas con otros 2 grupos: 1 de 6 personas y 1 de 4 personas; En total 16 personas.
+        
         
         [Planificación y Gestión de Proyectos Informáticos](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050035)
         
+        Asignatura en la que se trabaja más en la planificación y gestión como su nombre indica, el proyecto fue de tipo E-commerce creando una empresa ficticia.
+        Se implementó en Wordpress con extensiones y plugins como WooCommerce.
+
+        Enlace a la página [aquí](http://open-components.epizy.com/)
+
+        Fuimos equipo de 6 integrantes.
+
+
         [Acceso Inteligente a la Información](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/grado-en-ingenieria-informatica-ingenieria-del-software/2050027)
-        
-        
+
+        Proyecto individual pequeño que consiste en una página web que muestra listas de música a partir de los datos de la página principal de [El portal de música](https://elportaldemusica.es/)        
+        Con esos datos se puede realizar búsquedas de canciones, álbumes, listas de radio.
+
+        Algunas imágenes:
+        ![Inicio](/assets/images/aii.JPG)
+        ![Resultado](/assets/images/aii2.JPG)
+
+        Las tecnologías usadas fueron Python y Django, BeautifulSoup y Whoosh.
+
 projects:
     title: Personal
     #intro: >
